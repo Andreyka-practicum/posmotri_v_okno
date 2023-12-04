@@ -1,0 +1,7 @@
+.content__video-card-thumbnail {
+  flex-shrink: 0;
+  object-fit: cover;
+  object-position: center;
+  inline-size: 194px;
+  block-size: 103px;
+}

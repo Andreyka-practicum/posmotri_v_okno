@@ -1,0 +1,5 @@
+.content__list {
+  position: relative;
+  overflow-y: auto;
+  block-size: 298px;
+}

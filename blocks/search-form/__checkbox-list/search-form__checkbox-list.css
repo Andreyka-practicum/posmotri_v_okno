@@ -1,0 +1,4 @@
+.search-form__checkbox-list {
+  display: flex;
+  column-gap: 15px;
+}

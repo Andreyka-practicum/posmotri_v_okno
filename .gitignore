@@ -1,0 +1,10 @@
+.idea/
+.vscode/
+.DS_Store
+[Dd]esktop.ini
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+logs
+*.log

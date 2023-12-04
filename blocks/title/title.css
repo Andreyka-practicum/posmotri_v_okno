@@ -1,0 +1,10 @@
+.title {
+  margin-block-end: 26px;
+  color: #fff;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 700;
+  font-size: 75px;
+  font-style: normal;
+  line-height: 94%; /* 70.5px */
+  text-transform: uppercase;
+}

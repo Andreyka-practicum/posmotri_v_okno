@@ -1,0 +1,6 @@
+.result__video {
+  object-fit: cover;
+  object-position: center;
+  block-size: inherit;
+  inline-size: inherit;
+}

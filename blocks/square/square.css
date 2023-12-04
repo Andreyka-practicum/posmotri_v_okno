@@ -1,18 +1,3 @@
-.preloader {
-  position: absolute;
-  inset: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background: #545050;
-}
-
-.preloader-chasing-squares {
-  width: 50px;
-  height: 50px;
-  line-height: 19px;
-}
-
 .preloader-chasing-squares .square {
   display: inline-block;
   width: 15px;

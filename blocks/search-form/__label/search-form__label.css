@@ -1,0 +1,19 @@
+.search-form__label {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  inline-size: fit-content;
+}
+
+.search-form__label:has(:focus-visible) {
+  outline: 1px solid currentColor;
+  outline-offset: 1px;
+}
+
+.search-form__label:has(:active) {
+  outline-color: transparent;
+}
+
+.search-form__label:hover {
+  cursor: pointer;
+}
