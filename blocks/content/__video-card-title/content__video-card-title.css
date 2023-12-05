@@ -1,5 +1,7 @@
 .content__video-card-title {
   margin-block-end: 6px;
+  max-inline-size: 200px;
+  overflow: hidden;
   color: #fff;
   font-family: 'Oswald', sans-serif;
   font-weight: 700;
@@ -7,4 +9,6 @@
   font-style: normal;
   line-height: 100%; /* 30px */
   text-transform: uppercase;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }

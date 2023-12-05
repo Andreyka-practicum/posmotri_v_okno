@@ -10,10 +10,15 @@
   outline-offset: 1px;
 }
 
-.search-form__label:has(:active) {
+.search-form__label:active {
   outline-color: transparent;
 }
 
 .search-form__label:hover {
+  cursor: pointer;
+}
+
+.search-form__label:hover .search-form__label-text {
+  text-decoration-line: underline;
   cursor: pointer;
 }

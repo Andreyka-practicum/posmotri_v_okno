@@ -1,3 +1,4 @@
 .search-form__fieldset {
-  border: none;
+  border-inline: none;
+  border-block: none;
 }

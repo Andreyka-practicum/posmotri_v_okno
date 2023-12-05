@@ -1,5 +1,12 @@
 .content__list {
   position: relative;
+  padding-inline: 2px;
+  padding-block: 2px;
   overflow-y: auto;
+  color: inherit;
+  font-family: inherit;
+  font-weight: 400;
+  font-size: 18px;
+  font-style: normal;
   block-size: 298px;
 }

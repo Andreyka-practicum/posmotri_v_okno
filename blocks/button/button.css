@@ -3,7 +3,10 @@
   flex-shrink: 0;
   justify-content: center;
   align-items: center;
-  border: 1px solid currentColor;
+  border-inline: 1px solid currentColor;
+  border-block: 1px solid currentColor;
+  padding-inline: 5px;
+  padding-block: 5px;
   color: #fff;
   font-family: 'Fira Sans Condensed', sans-serif;
   font-weight: 700;
@@ -11,7 +14,6 @@
   font-style: normal;
   line-height: normal;
   background: transparent;
-  block-size: 34px;
 }
 
 .button:focus {
